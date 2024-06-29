@@ -23,8 +23,8 @@ Currently open to new opportunities in software development where I can leverage
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Susie-D&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Susie-D&theme=ambient_gradient&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Susie-D&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Susie-D&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Susie-D&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo

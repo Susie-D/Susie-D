@@ -16,7 +16,7 @@ Experienced professional specializing in frontend development within the fullsta
 Currently open to new opportunities in software development where I can leverage my skills and contribute value. Let's connect on LinkedIn! I'm passionate about networking with fellow professionals, sharing insights, and exploring opportunities.
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SusieDouang) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SusieDouang) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/susiedouang) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@susie-douang) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/susie_douang) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/suz_douang)  
 
 # 💻 Tech Stack:

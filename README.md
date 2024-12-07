@@ -27,9 +27,5 @@ Currently open to new opportunities in software development where I can leverage
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Susie-D&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/susied) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

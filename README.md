@@ -2,9 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Full Stack Projects**
-- 🌱 Desired stack **React, Typescript and C#/.NET** 
-- 👯 I’m looking to collaborate on **Full Stack Frontend Projects**
 - 💬 Ask me about **Technology, Consulting and Personal Development**
 - 📫 How to reach me: **susie.douang@gmail.com**
 

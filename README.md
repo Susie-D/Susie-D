@@ -1,7 +1,5 @@
 ## Hello and Welcome! 👋 [![](https://visitcount.itsvg.in/api?id=Susie-D&icon=3&color=12)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
-
 - 💬 Ask me about **Technology, Consulting and Personal Development**
 - 📫 How to reach me: **susie.douang@gmail.com**
 
